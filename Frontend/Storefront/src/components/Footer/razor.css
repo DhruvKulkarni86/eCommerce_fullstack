@@ -1,0 +1,9 @@
+.razor {
+	height: 48px;
+	width: 116px;
+	transform: scale(1.2);
+}
+
+.map {
+	border: 0;
+}
