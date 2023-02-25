@@ -1,0 +1,6 @@
+/* .simplebar-track.simplebar-vertical .simplebar-scrollbar:before {
+	background-color: orange;
+} */
+.simplebar-scrollbar::before {
+	background-color: #2c5515;
+}

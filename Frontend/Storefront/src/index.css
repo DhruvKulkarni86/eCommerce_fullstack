@@ -1,0 +1,19 @@
+/* a {
+	text-decoration: none;
+}
+a,
+a:visited,
+a:hover,
+a:active {
+	color: inherit;
+} */
+
+input[type="checkbox"] {
+	accent-color: #2c5515;
+}
+
+body {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto",
+		"Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans",
+		"Helvetica Neue", sans-serif;
+}
