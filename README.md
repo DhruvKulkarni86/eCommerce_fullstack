@@ -38,3 +38,13 @@ A fullstack Ecommerce webapp built from scratch with the **MERN** stack. Feature
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
 ## Screenshots
+
+![Catalogue](https://github.com/DhruvKulkarni86/eCommerce_fullstack/blob/main/Static/Screenshots/catalogue.webp)
+![Product](https://github.com/DhruvKulkarni86/eCommerce_fullstack/blob/main/Static/Screenshots/product.webp)
+![Cart](https://github.com/DhruvKulkarni86/eCommerce_fullstack/blob/main/Static/Screenshots/cart.webp)
+![Confirmation](https://github.com/DhruvKulkarni86/eCommerce_fullstack/blob/main/Static/Screenshots/confirmation.webp)
+![Admin](https://github.com/DhruvKulkarni86/eCommerce_fullstack/blob/main/Static/Screenshots/dash.webp)
+![Products](https://github.com/DhruvKulkarni86/eCommerce_fullstack/blob/main/Static/Screenshots/products.webp)
+![Add Product](https://github.com/DhruvKulkarni86/eCommerce_fullstack/blob/main/Static/Screenshots/addProduct.webp)
+![Orders](https://github.com/DhruvKulkarni86/eCommerce_fullstack/blob/main/Static/Screenshots/orders.webp)
+![Customers](https://github.com/DhruvKulkarni86/eCommerce_fullstack/blob/main/Static/Screenshots/customers.webp)
