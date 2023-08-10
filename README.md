@@ -47,4 +47,4 @@ A fullstack Ecommerce webapp built from scratch with the **MERN** stack. Feature
 ![Products](https://github.com/DhruvKulkarni86/eCommerce_fullstack/blob/main/Static/Screenshots/products.webp)
 ![Add Product](https://github.com/DhruvKulkarni86/eCommerce_fullstack/blob/main/Static/Screenshots/addProduct.webp)
 ![Orders](https://github.com/DhruvKulkarni86/eCommerce_fullstack/blob/main/Static/Screenshots/orders.webp)
-![Customers](https://github.com/DhruvKulkarni86/eCommerce_fullstack/blob/main/Static/Screenshots/customers.webp)
+![Customers](https://github.com/DhruvKulkarni86/eCommerce_fullstack/blob/main/Static/Screenshots/custormers.webp)
