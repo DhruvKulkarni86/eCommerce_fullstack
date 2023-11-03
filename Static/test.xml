@@ -1,8 +1,7 @@
 
-<?xml version="1.0" encoding="utf-8"?> 
-<users> 
-    <user> 
-        <name>Steve</name> 
-        <designation>Apple</designation> 
-    </user> 
-</users>
+<note>
+<Name>Dhruv</Name>
+<batch>MCA</batch>
+<heading>Reminder</heading>
+<body>Don't forget me this weekend!</body>
+</note>
