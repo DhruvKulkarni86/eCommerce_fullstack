@@ -1,7 +1,7 @@
 
 <note>
-<Name>Dhruv</Name>
-<batch>MCA</batch>
+<to>Dhruv</to>
+<from>Ramesh</from>
 <heading>Reminder</heading>
 <body>Don't forget me this weekend!</body>
 </note>
